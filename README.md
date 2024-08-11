@@ -60,6 +60,8 @@ chmod +x dir_file_record.sh
 
 claro que también en un administrador de archivos le puede dar clic derecho y buscar la pestaña "Permisos" y marcarlo como ejecutable
 
+**Nota:** Si no está marcado como ejecutable NO funciona.
+
 Paso 4: Ejecutar el script
 
 Ahora puedes ejecutar el script con:
