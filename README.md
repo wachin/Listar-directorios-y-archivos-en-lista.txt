@@ -93,6 +93,18 @@ El archivo "lista.txt" contendrá:
    if [[ "$archivo" == *.txt || "$archivo" == *.py || "$archivo" == *.md ]]; then
    ```
 
+4. Si desea usted que este script lea lo que hay en toda clase de archivo que contenga texto plano, ejemplo archivos de configuración como: .cpp .h .ui .pro .etc .etc cambie lo siguiente:
+
+    # Si el archivo es .txt o .py, incluir su contenido
+    if [[ "$archivo" == *.txt || "$archivo" == *.py ]]; then
+
+por:
+
+        # Si el archivo es .txt o cualquier archivo
+    if [[ "$archivo" == *.txt || "$archivo" == *.* ]]; then
+
+y guarde el script
+
 4. Si deseas crea otro script en base a este, guarda el script con otro nombre, por ejemplo, "analizar_directorio.sh".
 
 5. Ten en cuenta que si tienes muchos archivos o archivos muy grandes, el archivo de salida puede volverse bastante grande.
