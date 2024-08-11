@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Ruta del directorio que quieres analizar
-DIRECTORIO="xinput_gui_tkinter"
+DIRECTORIO="Datos"
 
 # Archivo de salida
 ARCHIVO_SALIDA="lista.txt"

@@ -1,0 +1,39 @@
+/home/wachin/Dev-python/AI-dev/Jacob-Isaac/Claude/Ejm generar archivo txt con el contenido de directorios y archivos/Ejemplo
+
+/home/wachin/Dev-python/AI-dev/Jacob-Isaac/Claude/Ejm generar archivo txt con el contenido de directorios y archivos/Ejemplo/lista_dir_files.txt
+
+
+--------------------------------------------------
+
+/home/wachin/Dev-python/AI-dev/Jacob-Isaac/Claude/Ejm generar archivo txt con el contenido de directorios y archivos/Ejemplo/Archivo de texto.txt
+
+Nos vamos hoy
+
+--------------------------------------------------
+
+/home/wachin/Dev-python/AI-dev/Jacob-Isaac/Claude/Ejm generar archivo txt con el contenido de directorios y archivos/Ejemplo/Container
+
+/home/wachin/Dev-python/AI-dev/Jacob-Isaac/Claude/Ejm generar archivo txt con el contenido de directorios y archivos/Ejemplo/Container/casa.txt
+
+Mi casa queda en Jipijapa
+
+--------------------------------------------------
+
+/home/wachin/Dev-python/AI-dev/Jacob-Isaac/Claude/Ejm generar archivo txt con el contenido de directorios y archivos/Ejemplo/Container/Oso
+
+/home/wachin/Dev-python/AI-dev/Jacob-Isaac/Claude/Ejm generar archivo txt con el contenido de directorios y archivos/Ejemplo/Container/Oso/oso_id.py
+
+import os
+
+def es_un_oso(directorio):
+
+--------------------------------------------------
+
+/home/wachin/Dev-python/AI-dev/Jacob-Isaac/Claude/Ejm generar archivo txt con el contenido de directorios y archivos/Ejemplo/Container/Piano
+
+/home/wachin/Dev-python/AI-dev/Jacob-Isaac/Claude/Ejm generar archivo txt con el contenido de directorios y archivos/Ejemplo/Container/Piano/piano yamaha.txt
+
+tengo un piano
+
+--------------------------------------------------
+
